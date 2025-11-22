@@ -103,6 +103,29 @@ width="200" hspace="10" vspace="10">
 width="200" hspace="10" vspace="10">
 
 
+## Upcoming Additions: AI Companion Bot & 3D Models
+
+We are actively working on an **AI-based Companion Bot** that will interact with elderly users through voice-based conversations, reminders, emotional support, and emergency assistance. The bot will be integrated with the app and will help users through:
+
+- Voice-guided medicine reminders  
+- Conversational assistance for daily tasks  
+- SOS triggers through voice commands  
+- Emotional and wellness conversations  
+- Health log updates through speech input  
+
+This will further improve accessibility for elderly users who struggle with navigating mobile interfaces.
+
+### 3D Models (Work in Progress)
+<img src="screens/bot1.png" align="center"
+width="200" hspace="10" vspace="10">
+<img src="screens/bot2.png" align="center"
+width="200" hspace="10" vspace="10">
+<img src="screens/bot3.png" align="center"
+width="200" hspace="10" vspace="10">
+
+We are designing assistive 3D models to pair with the system—potential use cases include wearable emergency triggers, desk stands, and accessibility-focused physical interfaces.
+
+
 
 <!--Thanks to  Wanicon (https://flaticon.com/authors/wanicon) for the app icon.-->
 
